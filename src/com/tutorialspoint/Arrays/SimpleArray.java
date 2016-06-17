@@ -12,7 +12,7 @@ public class SimpleArray {
                   }
                   for(int counter:bucky){
                              System.out.println("\t" + counter);
-                          }
+                  }
        }
 
 }
